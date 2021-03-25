@@ -1,0 +1,8 @@
+oracleclient/
+env/
+obj/
+__pycache__/
+.vs/
+*.sln
+SipCoursesPython.pyproj
+SipCoursesPython.pyproj.user
